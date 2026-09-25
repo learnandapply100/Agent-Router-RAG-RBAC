@@ -132,5 +132,13 @@ secure_agentic_rag("alice", "What was Uber's revenue in 2021?")
 │   └── qdrant_data/         # Prebuilt Qdrant vector database files
 ├── Agentic_Router.ipynb     # Interactive Jupyter/Colab notebook
 └── README.md                # Project documentation
+```
 
-
+## Citation
+@misc{2024<br>
+  title = {Semantic Cache from Scratch, Agentic Router, RAG},<br>
+  author = {Hamza Farooq, Darshil Modi, Kanwal Mehreen, Nazila Shafiei},<br>
+  keywords = {Semantic Cache, Agentic Router, RAG},<br>
+  year = {2024},<br>
+  copyright = {APACHE 2.0 license}<br>
+}
